@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ivanjtm.fire",
-    "sha256_cert_fingerprints":
-    ["BE:FE:71:7F:A2:E5:0B:2A:E2:CE:E4:3D:AD:75:78:EA:D4:81:1C:B9:3B:A1:FE:D0:7B:F9:6E:CA:E2:D9:6D:BF"]
-  }
-}]
